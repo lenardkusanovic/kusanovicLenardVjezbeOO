@@ -1,0 +1,6 @@
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\bin\Debug\kusanovicLenardVjezbaOO.exe.config
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\bin\Debug\kusanovicLenardVjezbaOO.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\bin\Debug\kusanovicLenardVjezbaOO.pdb
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\obj\Debug\kusanovicLenardVjezbaOO.csprojAssemblyReference.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\obj\Debug\kusanovicLenardVjezbaOO.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\kusanovicLenardVjezbaOO\kusanovicLenardVjezbaOO\obj\Debug\kusanovicLenardVjezbaOO.pdb
