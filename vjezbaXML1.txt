@@ -1,0 +1,44 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+					
+public class Program
+{
+	public static void Main()
+	{
+		IList<Student> studentList = new List<Student>();		
+		Student student = new Student(1, "Zoran", 19);
+		Student student1 = new Student(2, "Milan", 19);
+		Student student2 = new Student(3, "Petar", 20);
+		Student student3 = new Student(4, "Klaudio", 21);
+		
+		student.StandardID = 12;
+		student.StandardID = 15;
+		student.StandardID = 11;
+		
+		studentList.Add(student);
+		studentList.Add(student1);
+		studentList.Add(student2);
+		studentList.Add(student3);
+		
+		foreach (Student s in studentList){
+			List<Student> filter = new List<Student>();
+			if (s.Age > 18){
+			filter.Add(s);}
+		}
+	}
+}
+
+public class Student{
+
+	public int StudentID { get; set; }
+	public string StudentName { get; set; }
+	public int Age { get; set; }
+	public int StandardID { get; set; }		
+	
+	public Student(int ID, string Name,int Age){
+		this.StudentID = ID;
+		this.StudentName = Name;
+		this.Age = Age; 
+	}
+}
